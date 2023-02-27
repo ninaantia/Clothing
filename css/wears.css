@@ -149,6 +149,9 @@ h2 :hover{
     .main-content h3{
         font-size: 1.6em;
     }
+    
+    .project-card {
+        with:0px
 
     .content{
         flex-direction: column;
